@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Alhamdou
-- 👀 I’m interested in phython, Machine Learning and all it's related frame works, Flutter and Javascript
-- 🌱 I’m currently learning Machine Larning and Flutter
-- 💞️ I’m looking to collaborate on any project that will add value to humanity
+- 👋 Hi, I’m @Alhamdou, a software Engineer at @QcellGambia, Gambia's leading telecom company.
+- 💞️ I’m open to collabroation on all domains of techology.
 - 📫 How to reach me LinkdIn: Alhamdou Jallow
 
 <!---
