@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alhamdou, a software Engineer at @QcellGambia, Gambia's leading telecom company.
+- 👋 Hi, I’m @Alhamdou, a software Engineer at @QCellGambia, Gambia's leading telecom company.
 - 💞️ I’m open to collabroation on all domains of techology.
 - 📫 How to reach me LinkdIn: Alhamdou Jallow
 
